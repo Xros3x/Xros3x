@@ -19,3 +19,7 @@ planning and designing all the way to solving real-world problems with code.
 ![Xros3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=xros3x&show_icons=true&theme=tokyonight)
 
 #
+
+<details>
+<summary><h3>👨‍💻 Xros3x's Coding Journey</h3></summary>
+I started my coding journey on a differnet path than i'm taking now, what I mean by that is at first I wanted to get into tech and tried the cyber secuirty route which was fun and interesting, but there was a feeling that was missing while learning it. Although it took me an year to find that feeling that was missing I came across the python language while learning one of the course I was taking. When I came across the langauge I was so interested in it because I researched it more and saw that I could build tools with it. From there I started practicing as I go while learning the language. Fast forward 5 months after discovering python I wanted to see what careers there were for the passion I have for coding. Later I saw and researched BackEnd Developer. It amazed me that the career i've been lokking for existed and how I didnt mind staying up every night to gain the skills for my dream job, but the down part is i'm still on the journey to land that role. I won't give up and will land that role no matter if it requires an new language I will dedciate my time to fulfill what the role needs.
