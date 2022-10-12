@@ -13,3 +13,9 @@ planning and designing all the way to solving real-world problems with code.
 <br />
 
 #
+
+### 📊 Stats
+
+![Xros3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=xros3x&show_icons=true&theme=tokyonight)
+
+#
