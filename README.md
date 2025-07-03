@@ -5,7 +5,7 @@
 #
 
 ### 📊 Stats
-## Skills
+## Skills - UNDER CONSTRUCTION
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
