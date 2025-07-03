@@ -45,7 +45,6 @@
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-![Xros3x's GitHub stats](https://github-readme-stats.vercel.app/api?username=xros3x&show_icons=true&theme=tokyonight)
 
 #
 
