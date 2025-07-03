@@ -1,5 +1,5 @@
 
-📖  Cybersecurity professional in cybersecurity with a year and a half of experience. Have worked on various tech projects, gaining hands-on skills in system security, network monitoring, and risk assessment. My strong problem-solving abilities and attention to detail help me analyze and mitigate security threats effectively. Proficient in cybersecurity tools used for vulnerability assessment and network defense.
+📖  IT Security Professional in Cybersecurity with a year and a half of experience. Have worked on various tech projects, gaining hands-on skills in system security, network monitoring, and risk assessment. My strong problem-solving abilities and attention to detail help me analyze and mitigate security threats effectively. Proficient in cybersecurity tools used for vulnerability assessment and network defense.
 
 
 #
