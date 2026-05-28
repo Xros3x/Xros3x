@@ -1,5 +1,15 @@
 
-📖  IT Security Professional in Cybersecurity with a year and a half of experience. Have worked on various tech projects, gaining hands-on skills in system security, network monitoring, and risk assessment. My strong problem-solving abilities and attention to detail help me analyze and mitigate security threats effectively. Proficient in cybersecurity tools used for vulnerability assessment and network defense.
+🛡️ IT Security Professional | Cybersecurity | 3 Years Experience
+Specialization: system security · network monitoring · risk assessment · vulnerability assessment · network defense
+I have 3 years of applied experience working across cybersecurity domains, with direct involvement in technical projects requiring hands-on implementation of security controls and threat mitigation strategies.
+Core competencies:
+
+Vulnerability assessment and remediation workflows
+Network traffic monitoring and anomaly detection
+Risk identification, classification, and mitigation
+Security tooling for defense and assessment operations
+
+I apply a structured, detail-oriented methodology to threat analysis — translating technical findings into actionable security decisions. Focused on continuous skill development aligned with current threat landscapes and industry frameworks.
 
 
 #
