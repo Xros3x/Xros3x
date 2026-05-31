@@ -14,7 +14,6 @@ I apply a structured, detail oriented methodology to threat analysis translating
 
 #
 
-### 📊 Stats
 ## Skills - UNDER CONSTRUCTION
 
 | Skill                                         | Associated Project         |
