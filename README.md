@@ -1,16 +1,13 @@
 
-🛡️ IT Security Professional | Cybersecurity | 3 Years Experience
-Specialization: system security · network monitoring · risk assessment · vulnerability assessment · network defense
-I have 3 years of applied experience working across cybersecurity domains, with direct involvement in technical projects requiring hands-on implementation of security controls and threat mitigation strategies.
-Core competencies:
+# Hey, I'm Tyrik Parker 👋
 
-Vulnerability assessment and remediation workflows
-Network traffic monitoring and anomaly detection
-Risk identification, classification, and mitigation
-Security tooling for defense and assessment operations
+🔐 Cybersecurity Professional | SOC Analyst | Homelab Builder
+🎯 Actively seeking Cybersecurity Analyst & SOC Analyst roles
 
-I apply a structured, detail oriented methodology to threat analysis translating technical findings into actionable security decisions. Focused on continuous skill development aligned with current threat landscapes and industry frameworks.
+---
 
+## 🧑‍💻 About Me
+Cybersecurity professional with an active Clearance and CompTIA CySA+ certification. I build and document hands-on cybersecurity projects in my homelab SOC environment to develop real world skills in threat detection, incident response, and security monitoring.
 
 #
 
@@ -18,14 +15,14 @@ I apply a structured, detail oriented methodology to threat analysis translating
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | [SIEM Implementation & Log Analysis](https://github.com/Xros3x/SIEM-Implementation-Log-Analysis)|
 | Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## 🛠️ Tools & Technologies
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -79,4 +76,15 @@ I apply a structured, detail oriented methodology to threat analysis translating
     <img src="https://img.shields.io/badge/-CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+**Pursuing:**
+- CCNA
+- AWS Cloud Practitioner
 
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tyrikparker1)
+
+---
+
+> 💡 *"Every project I build is a step closer to the analyst I'm becoming."*
