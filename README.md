@@ -16,7 +16,7 @@ Cybersecurity professional with an active Clearance and CompTIA CySA+ certificat
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [SIEM Implementation & Log Analysis](https://github.com/Xros3x/SIEM-Implementation-Log-Analysis)|
-| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | [Network Traffic Monitoring and Attack Detection ](https://github.com/Xros3x/Network-Traffic-Monitoring-and-Attack-Detection)|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
