@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-Cybersecurity professional with an active Clearance and CompTIA CySA+ certification. I build and document hands-on cybersecurity projects in my homelab SOC environment to develop real world skills in threat detection, incident response, and security monitoring.
+Cybersecurity professional with an AA in Cybersecurity & Networking, active Clearance, and CompTIA CySA+ certification. I build and document hands-on cybersecurity projects in my homelab SOC environment to develop real world skills in threat detection, incident response, and security monitoring.
 
 #
 
