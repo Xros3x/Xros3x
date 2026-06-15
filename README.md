@@ -17,7 +17,7 @@ Cybersecurity professional with an AA in Cybersecurity & Networking, active Clea
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [SIEM Implementation & Log Analysis](https://github.com/Xros3x/SIEM-Implementation-Log-Analysis)|
 | Network Traffic Monitoring and Attack Detection | [Network Traffic Monitoring and Attack Detection ](https://github.com/Xros3x/Network-Traffic-Monitoring-and-Attack-Detection)|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | Coming Soon|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
