@@ -23,45 +23,45 @@ Cybersecurity professional with an AA in Cybersecurity & Networking, active Clea
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## 🛠️ Tools & Technologies
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4B275F?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OPNsense-D94F00?&style=for-the-badge&logo=opnsense&logoColor=white" />
 </div>
 
-### Endpoint
+### SIEM & Monitoring
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" />
+</div>
+
+### Automation & Orchestration (SOAR)
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle_SOAR-FF6F00?&style=for-the-badge&logo=shuffle&logoColor=white" />
+</div>
+
+### Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-AbuseIPDB-D32F2F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
 </div>
 
 ### Virtualization & Infrastructure
 <div>
     <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Attack & Simulation
 <div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-FF0000?&style=for-the-badge&logo=hydra&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4B275F?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### Scripting & Development
@@ -70,6 +70,18 @@ Cybersecurity professional with an AA in Cybersecurity & Networking, active Clea
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
+### 🔬 Exploring / In My Homelab
+<div>
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OPNsense-D94F00?&style=for-the-badge&logo=opnsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+</div>
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
