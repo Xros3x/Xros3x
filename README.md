@@ -21,6 +21,7 @@ Cybersecurity professional with an AA in Cybersecurity & Networking, active Clea
 | Incident Response Planning and Execution      | [Incident-Response-Multi-Stage-SSH-Intrusion-NIST-800-61-](https://github.com/Xros3x/Incident-Response-Multi-Stage-SSH-Intrusion-NIST-800-61-)|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Endpoint-Detection-Response-CrowdStrike | SOC Automation Lab|
 
 ## 🛠️ Tools & Technologies
 
