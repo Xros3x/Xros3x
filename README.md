@@ -19,7 +19,7 @@ Cybersecurity professional with an AA in Cybersecurity & Networking, active Clea
 | Network Traffic Monitoring and Attack Detection | [Network Traffic Monitoring and Attack Detection ](https://github.com/Xros3x/Network-Traffic-Monitoring-and-Attack-Detection)|
 | Security Automation with Shuffle SOAR         | [Security Automation with Shuffle SOAR](https://github.com/Xros3x/Security-Automation-with-Shuffle-SOAR)|
 | Incident Response Planning and Execution      | [Incident-Response-Multi-Stage-SSH-Intrusion-NIST-800-61-](https://github.com/Xros3x/Incident-Response-Multi-Stage-SSH-Intrusion-NIST-800-61-)|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Case Management with TheHive                  | Coming Soon|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Endpoint-Detection-Response-CrowdStrike | SOC Automation Lab|
 
